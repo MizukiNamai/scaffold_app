@@ -1,0 +1,15 @@
+current directory: /Users/namaimizuki/scaffold_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.9.0/ext/bootsnap
+/Users/namaimizuki/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20210918-10253-xg8w62.rb extconf.rb
+creating Makefile
+
+current directory: /Users/namaimizuki/scaffold_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.9.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/namaimizuki/scaffold_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.9.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/namaimizuki/scaffold_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.9.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210918-10253-1fsi93v/bootsnap
